@@ -4,13 +4,16 @@
  *
  * This is based on the excellent Nord Theme color palette: https://www.nordtheme.com
  * 
- * WallaBag theme based off of it's Material theme. You probably need to switch your theme to it first; I was being lazy and didn't test whether or not you need to.
+ * WallaBag theme based off of it's Material theme. Switch your Wallabag theme to it first.
  *
  * I've also included some of the other Nord palette colors in the comments where they all looked great to me & I couldn't really decide
  * which I truly liked best there, (but I wanted to keep it mostly dark), so I (or you) could easily swap around later at will.
  *
-*/
+ */
 
+/* [1] Following line is only required for Stylus/Stylish, to let it know where to enable the style */
+@-moz-document regexp(".*/wallabag/web/.*") {
+  
 .logo                      { background-color: #B48EAD; }            /* Logo Backgounds: Other cool colors: 4C566A B48EAD A3BE8C BF616A */
 .logo:hover                { background-color: #3B4252 !important; }
 
@@ -321,3 +324,5 @@ li.operation.post div.content, li.operation.get div.content, li.operation.put di
  **************/
 
 body > article { color: inherit; }
+
+} /* [1] Closing brace for Stylus/Stylish */
