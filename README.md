@@ -1,4 +1,4 @@
-# Dark-Nord-Material-Theme-for-WallaBag
+# Custom Dark Nord Material Theme for WallaBag
 
 **A Dark Nord Material Theme for WallaBag based on the Nord Theme color palette:** https://www.nordtheme.com
 
