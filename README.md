@@ -9,7 +9,7 @@ To use it in Stylish/Stylus, paste the CSS as a new style, and use:
 
 Alternatively, you can just try adding it by clicking the style from the UserStyles page linked below (*I'll have to try and remember to update it there if I ever update the code*).
 
-[Install the Theme](https://github.com/STaRDoGG/portainer-nord-dark-theme/raw/master/style.user.css)
+[Install the Theme](https://github.com/STaRDoGG/Dark-Nord-Material-Theme-for-WallaBag/raw/master/style.user.css)
 
 
 **Other Links:**
